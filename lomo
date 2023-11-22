@@ -1,0 +1,2 @@
+def chain_balance(node_process, session, address, chain, ticker, min_amount):
+    coins = []
